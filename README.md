@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node.js & Express.js**
 
-- 👯 I’m looking to collaborate on **MERN Apps **
+- 👯 I’m looking to collaborate on **MERN Apps**
 
 - 💬 Ask me about **react, node, express**
 
