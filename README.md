@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/rameezansari007" target="blank"><img src="https://img.shields.io/twitter/follow/rameezansari007?logo=twitter&style=for-the-badge" alt="rameezansari007" /></a> </p>
 
-- 🔭 I’m currently working on **Proshop**
+- 🔭 I’m currently working on **shop.it-app**
 
 - 🌱 I’m currently learning **Node.js & Express.js**
 
-- 👯 I’m looking to collaborate on **Proshop**
+- 👯 I’m looking to collaborate on **MERN Apps **
 
 - 💬 Ask me about **react, node, express**
 
