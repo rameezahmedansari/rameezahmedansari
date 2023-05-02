@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rameez Ahmed Ansari</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A JS developer passionate about creating elegant and efficient code. Experienced in React.js, Node.js, and MongoDB. Lifelong learner and believer in open-source collaboration.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rameezahmedansari&label=Profile%20views&color=0e75b6&style=flat" alt="rameezahmedansari" /> </p>
 
